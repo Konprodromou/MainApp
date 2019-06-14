@@ -1,0 +1,21 @@
+package com.Intra.getnamemodule;
+
+import java.util.Scanner;
+
+public class GetNameClass {
+
+	public String getName() {
+		
+		
+		System.out.println("Enter your name: ");
+		
+		Scanner in = new Scanner(System.in);
+		String name = in.nextLine();
+		
+		return name;
+		
+		
+		
+	}
+	
+}
