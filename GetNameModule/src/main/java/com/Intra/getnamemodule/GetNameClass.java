@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GetNameClass {
 
-	public String getName() {
+	public static String getName() {
 		
 		
 		System.out.println("Enter your name: ");
