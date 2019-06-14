@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>GetNameModule</module>
+  	<module>HelloProgrammer</module>
+  	<module>GetLastNameModule</module>
   </modules>
 </project>
