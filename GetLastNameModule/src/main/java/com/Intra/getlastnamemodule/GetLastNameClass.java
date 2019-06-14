@@ -11,6 +11,8 @@ public class GetLastNameClass {
 		Scanner in = new Scanner(System.in);
 		String lastName = in.nextLine();
 		System.out.println("test");
+		System.out.println("test");
+
 		return lastName;
 		
 		
